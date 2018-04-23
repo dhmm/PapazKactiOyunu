@@ -1,0 +1,9 @@
+C:\PROJECTS\PpzKct\PpzKct\obj\x86\Debug\PpzKct.Form1.resources
+C:\PROJECTS\PpzKct\PpzKct\obj\x86\Debug\PpzKct.Properties.Resources.resources
+C:\PROJECTS\PpzKct\PpzKct\obj\x86\Debug\PpzKct.csproj.GenerateResource.Cache
+C:\PROJECTS\PpzKct\PpzKct\bin\Debug\PpzKct.exe
+C:\PROJECTS\PpzKct\PpzKct\bin\Debug\PpzKct.pdb
+C:\PROJECTS\PpzKct\PpzKct\obj\x86\Debug\PpzKct.exe
+C:\PROJECTS\PpzKct\PpzKct\obj\x86\Debug\PpzKct.pdb
+C:\PROJECTS\PpzKct\PpzKct\obj\x86\Debug\PpzKct.GameLib.Controls.KartControl.resources
+C:\PROJECTS\PpzKct\PpzKct\obj\x86\Debug\PpzKct.csprojResolveAssemblyReference.cache
